@@ -1,11 +1,14 @@
 # Decentralized private set membership protocol for private location in sharing economy
 
-Submission in progress, currently unpublished.
+_Submission in progress._
 
 This repository provides the source code used to evaluate the APSI protocol proposed in the article _Decentralized 
 private set membership protocol for private location in sharing economy_.
 
-## Article abstract
+## Abstract
+
+<img src="/graphical_abstract.png?raw=true" alt="drawing" width="500"/>
+
 In this article, we focus on personal data management in service exchange networks, where members meet each other to 
 share services based on their skill. Through the case study of the Accorderie (a Quebec solidarity cooperative), we 
 propose an innovative protocol designed to reinforce the confidentiality of data relative to members' addresses and 
